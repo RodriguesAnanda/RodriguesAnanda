@@ -1,4 +1,4 @@
-<h1 align="center">Ananda Alves</h1>
+<h1 align="center">Ananda Rodrigues</h1>
 
 <p align="center">
   <strong>Desenvolvedora de Sistemas | Em formação</strong>
