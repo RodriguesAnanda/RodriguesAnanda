@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/mulher2026">
-    <img src="https://img.shields.io/badge/GitHub-mulher2026-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-RodriguesAnanda-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:mulhersegura6@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-mulhersegura6%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
